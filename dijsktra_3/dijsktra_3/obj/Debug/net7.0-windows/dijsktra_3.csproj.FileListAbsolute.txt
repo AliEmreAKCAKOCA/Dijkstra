@@ -1,0 +1,16 @@
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.Form1.resources
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.csproj.GenerateResource.cache
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.AssemblyInfoInputs.cache
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.AssemblyInfo.cs
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.csproj.CoreCompileInputs.cache
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\bin\Debug\net7.0-windows\dijsktra_3.exe
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\bin\Debug\net7.0-windows\dijsktra_3.deps.json
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\bin\Debug\net7.0-windows\dijsktra_3.runtimeconfig.json
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\bin\Debug\net7.0-windows\dijsktra_3.dll
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\bin\Debug\net7.0-windows\dijsktra_3.pdb
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.dll
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\refint\dijsktra_3.dll
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.pdb
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\dijsktra_3.genruntimeconfig.cache
+C:\Users\aliem\source\repos\dijsktra_3\dijsktra_3\obj\Debug\net7.0-windows\ref\dijsktra_3.dll
